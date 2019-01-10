@@ -1,0 +1,23 @@
+#entorno{
+    display: block;
+    margin: 0 auto;
+}
+
+#fondo{
+    opacity: 0.3;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background: #fffc00;  
+    background: -webkit-linear-gradient(to right, #ffffff, #fffc00);  
+    background: linear-gradient(to right, #ffffff, #fffc00);
+
+}
+
+.pikachu img{
+    right: -500px;
+    position: relative;
+    width: 30%;
+}
